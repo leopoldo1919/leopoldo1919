@@ -54,7 +54,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leopoldo1919&theme=dark" alt="GitHub Streak">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=leopoldo1919&show_icons=true&theme=dark" alt="My Stats">
 </div>
